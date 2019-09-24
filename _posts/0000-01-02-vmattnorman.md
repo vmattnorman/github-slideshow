@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our vmattnorman slide!"
 ---
-something new
+something new :tada:
 Use the left arrow to go back!
